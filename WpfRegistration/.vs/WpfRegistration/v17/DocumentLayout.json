@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\project\\WpfRegistration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD94190A-9A73-424E-B681-ED4E1163F845}|WpfRegistration\\WpfRegistration.csproj|c:\\project\\wpfregistration\\wpfregistration\\regisration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DD94190A-9A73-424E-B681-ED4E1163F845}|WpfRegistration\\WpfRegistration.csproj|solutionrelative:wpfregistration\\regisration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD94190A-9A73-424E-B681-ED4E1163F845}|WpfRegistration\\WpfRegistration.csproj|c:\\project\\wpfregistration\\wpfregistration\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DD94190A-9A73-424E-B681-ED4E1163F845}|WpfRegistration\\WpfRegistration.csproj|solutionrelative:wpfregistration\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD94190A-9A73-424E-B681-ED4E1163F845}|WpfRegistration\\WpfRegistration.csproj|c:\\project\\wpfregistration\\wpfregistration\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD94190A-9A73-424E-B681-ED4E1163F845}|WpfRegistration\\WpfRegistration.csproj|solutionrelative:wpfregistration\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD94190A-9A73-424E-B681-ED4E1163F845}|WpfRegistration\\WpfRegistration.csproj|c:\\project\\wpfregistration\\wpfregistration\\regisration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD94190A-9A73-424E-B681-ED4E1163F845}|WpfRegistration\\WpfRegistration.csproj|solutionrelative:wpfregistration\\regisration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD94190A-9A73-424E-B681-ED4E1163F845}|WpfRegistration\\WpfRegistration.csproj|c:\\project\\wpfregistration\\wpfregistration\\wpfregistration.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{DD94190A-9A73-424E-B681-ED4E1163F845}|WpfRegistration\\WpfRegistration.csproj|solutionrelative:wpfregistration\\wpfregistration.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\project\\WpfRegistration\\WpfRegistration\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfRegistration\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\project\\WpfRegistration\\WpfRegistration\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfRegistration\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:24:06.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Regisration.xaml",
+              "DocumentMoniker": "C:\\project\\WpfRegistration\\WpfRegistration\\Regisration.xaml",
+              "RelativeDocumentMoniker": "WpfRegistration\\Regisration.xaml",
+              "ToolTip": "C:\\project\\WpfRegistration\\WpfRegistration\\Regisration.xaml",
+              "RelativeToolTip": "WpfRegistration\\Regisration.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-29T06:05:55.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\project\\WpfRegistration\\WpfRegistration\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfRegistration\\MainWindow.xaml",
+              "ToolTip": "C:\\project\\WpfRegistration\\WpfRegistration\\MainWindow.xaml",
+              "RelativeToolTip": "WpfRegistration\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-28T07:24:12.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Regisration.xaml.cs",
+              "DocumentMoniker": "C:\\project\\WpfRegistration\\WpfRegistration\\Regisration.xaml.cs",
+              "RelativeDocumentMoniker": "WpfRegistration\\Regisration.xaml.cs",
+              "ToolTip": "C:\\project\\WpfRegistration\\WpfRegistration\\Regisration.xaml.cs",
+              "RelativeToolTip": "WpfRegistration\\Regisration.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAkwBkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:55:30.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WpfRegistration",
+              "DocumentMoniker": "C:\\project\\WpfRegistration\\WpfRegistration\\WpfRegistration.csproj",
+              "RelativeDocumentMoniker": "WpfRegistration\\WpfRegistration.csproj",
+              "ToolTip": "C:\\project\\WpfRegistration\\WpfRegistration\\WpfRegistration.csproj",
+              "RelativeToolTip": "WpfRegistration\\WpfRegistration.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-28T07:39:33.478Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
